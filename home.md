@@ -1,9 +1,9 @@
 ---
 title: shortcut_keys
-description: YYF的个人wiki站点。
+description: 个人常用快捷键
 published: true
-date: 2021-11-17T02:05:35.356Z
-tags: wiki
+date: 2021-11-17T02:07:53.756Z
+tags: 
 editor: markdown
 dateCreated: 2021-07-14T11:11:34.884Z
 ---
