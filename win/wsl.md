@@ -2,7 +2,7 @@
 title: WSL 指南
 description: 
 published: true
-date: 2021-11-18T09:40:23.110Z
+date: 2021-11-18T09:45:00.649Z
 tags: wsl
 editor: markdown
 dateCreated: 2021-11-18T00:30:28.965Z
@@ -12,7 +12,8 @@ dateCreated: 2021-11-18T00:30:28.965Z
 
 ## 一、 安装WSL
 
-
+1. 以管理员身份打开`Powershell`,输入`wsl --install`进行安装。
+> 官方文档：https://docs.microsoft.com/en-us/windows/wsl/install
 
 ## 坑
 
