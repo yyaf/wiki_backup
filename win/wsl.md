@@ -2,13 +2,17 @@
 title: WSL 指南
 description: 
 published: true
-date: 2021-11-18T00:30:28.965Z
+date: 2021-11-18T09:40:23.110Z
 tags: wsl
 editor: markdown
 dateCreated: 2021-11-18T00:30:28.965Z
 ---
 
 # WSL 指南
+
+## 一、 安装WSL
+
+
 
 ## 坑
 
