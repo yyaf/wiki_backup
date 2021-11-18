@@ -2,7 +2,7 @@
 title: WSL 指南
 description: 
 published: true
-date: 2021-11-18T09:55:11.901Z
+date: 2021-11-18T09:55:39.121Z
 tags: wsl
 editor: markdown
 dateCreated: 2021-11-18T00:30:28.965Z
@@ -19,7 +19,7 @@ dateCreated: 2021-11-18T00:30:28.965Z
 
 
 
-## 坑
+## #坑
 
 1. `windows terminal`打开`wsl`的目录问题：
 解决办法： 打开`wsl`执行`cd ~ && echo 'cd ~' >> .bashrc`
